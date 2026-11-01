@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/unbranded/main">
+        <file alias="icon">resources/kartina_tv.png</file>
+        <file alias="live">resources/kartina_live_128x128.png</file>
+    </qresource>
+    <qresource prefix="/unbranded/video">
+        <file alias="logo">resources/kartina_tv.png</file>
+        <file alias="logo_transp">resources/kartina_transp.png</file>
+    </qresource>
+</RCC>
